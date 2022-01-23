@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>tableview.Main</exec.mainClass>
-        <javafx.version>17.0.1</javafx.version>
+        <javafx.version>17.0.2</javafx.version>
         <jackson.version>2.13.1</jackson.version>
     </properties>
     <dependencies>
